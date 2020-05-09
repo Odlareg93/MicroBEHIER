@@ -17,6 +17,6 @@ Contiennent les programmes permettant la communication en morse du PC à l'Ardui
 
 # Groupe
 
-Geraldo LABA MENDES
-Raoul DIBAMBA
+Geraldo LABA MENDES -
+Raoul DIBAMBA -
 Halim BRINIS
